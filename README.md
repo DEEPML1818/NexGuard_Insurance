@@ -90,23 +90,3 @@ Follow these steps to deploy the `NexGuard` contract on Solana Devnet.
    anchor test
    ```
 
----
-
-## Running the Frontend and Backend
-
-1. **Backend Server**
-   ```bash
-   cd backend
-   npm start
-   ```
-
-2. **Frontend Server**
-   ```bash
-   cd frontend
-   npm start
-   ```
-
-Access the application at `http://localhost:3000`.
-
----
-
