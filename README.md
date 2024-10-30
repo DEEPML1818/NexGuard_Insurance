@@ -1,5 +1,8 @@
 # NexGuard - Decentralized Insurance Platform
 
+**Deployed contract**  : 
+https://explorer.solana.com/tx/3GrgDV7aWuTHuS6EsbokSDvhEwuEiWpJGUeJzGyMmt1rUjgNwCSVqPdfyo4Necm7uVY29he6VPMsRA17voiUbZNc?cluster=devnet
+
 **NexGuard** is a decentralized insurance platform for DeFi users, leveraging AI for real-time risk assessment and automated claims processing. Built on the Solana blockchain, NexGuard combines advanced machine learning with decentralized physical infrastructure (DePIN) to ensure secure and efficient insurance services. Key features include policy purchase, staking, insurance pools, and AI-powered claims verification.
 
 ## Project Overview
